@@ -1,0 +1,16 @@
+{
+  "name": "funda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "husky": "^8.0.3",
+    "koa": "^2.14.2",
+    "next": "^14.0.3"
+  }
+}
